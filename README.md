@@ -1,4 +1,4 @@
-# 🏠 Smart Home Automation
+# Smart Home Automation
 
 ### Overview
 Developed a smart home system that integrates **voice assistants** and a **sipmle web interface** for IoT-based control of household devices.  
@@ -17,8 +17,8 @@ ESP8266, HTML, CSS, Google Assistant, Alexa
 ### Media
 - 📱 Google Home Interface: ![Google Home](media/GoogleHome.png)
 - 🌐 Web Interface: ![Web Interface](media/web.png)
-- 🎥 [Demo Video 1](https://youtu.be/aaaa)
-- 🎥 [Demo Video 2](https://youtu.be/bbbb)
+- 🎥 [Demo Video 1](https://youtu.be/ancxgVf5cl4)
+- 🎥 [Demo Video 2](https://youtu.be/YC6AY18XCrE)
 
 ### Contributions
 - Designed the smart home IoT network on ESP8266
